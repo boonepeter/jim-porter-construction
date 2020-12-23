@@ -1,7 +1,7 @@
 ---
 title: "Jim Porter"
 weight: 3
-header_menu: true
+header_menu: false
 ---
 
 ![Jim Porter](images/jim_funny.jpg)

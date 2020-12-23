@@ -14,7 +14,7 @@ title = "Jim Porter Construction"
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Jim Porter 2020"
+    copyright = "© Jim Porter"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Custom home building for the Central Country region."
