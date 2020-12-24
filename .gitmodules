@@ -1,6 +1,3 @@
-[submodule "jim-porter-construction/themes/hugo-icon"]
-	path = jim-porter-construction/themes/hugo-icon
-	url = https://github.com/SteveLane/hugo-icon.git
 [submodule "jim-porter-construction/themes/hugo-scroll"]
 	path = jim-porter-construction/themes/hugo-scroll
 	url = https://github.com/janraasch/hugo-scroll.git
