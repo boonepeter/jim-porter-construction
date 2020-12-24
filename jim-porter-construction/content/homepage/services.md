@@ -4,22 +4,22 @@ weight: 2
 header_menu: true
 ---
 
-I can build a house for you. Or do other woodworking stuff!
+Custom homes, renovations, and custom carpentry.
 
----
+#### Custom homes
 
-### Custom homes
+I can build cabins like this:
 
-What do you want me to build? I can build it.
+![cabin construction](/images/cabin.jpg)
 
----
-
-### Renovations
+#### Renovations
 
 Don't like your house how it is right now? I can fix that.
 
----
+![renovated room](images/renovation.jpg)
 
-### Woodworking
+#### Custom carpentry
+
+![outdoor carpentry](images/carpentry.jfif)
 
 I can build some wood stuff for you!
